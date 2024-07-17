@@ -1,0 +1,9 @@
+.rate-movie-button span {
+    cursor: pointer;
+    font-size: 2rem;
+    color: #ccc;
+  }
+  
+  .rate-movie-button span.selected {
+    color: gold;
+  }
